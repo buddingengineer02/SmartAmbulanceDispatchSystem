@@ -1,0 +1,17 @@
+entity_type,id,name,latitude,longitude,beds_available
+ambulance,A1,A1_Govt_Hospital,13.0380,80.2460,
+ambulance,A2,A2_Apollo_Health,13.0633,80.2317,
+ambulance,A3,A3_Fortis_Care,13.0581,80.2205,
+ambulance,A4,A4_City_Ambulance,13.0721,80.2475,
+ambulance,A5,A5_Velachery_Service,12.9791,80.2185,
+ambulance,A6,A6_Tambaram_Fleet,12.9237,80.1140,
+ambulance,A7,A7_OMR_Responder,12.8966,80.2274,
+ambulance,A8,A8_Med_Aid_Service,13.1107,80.2832,
+ambulance,A9,A9_AmbuCare_PvtLtd,13.0824,80.2707,
+ambulance,A10,A10_ECR_Mobile,12.9185,80.2502,
+hospital,H1,Apollo_Hospital_AnnaNagar,13.0850,80.2103,6
+hospital,H2,Fortis_Malar_Adyar,13.0100,80.2498,2
+hospital,H3,Stanley_Govt_Hospital,13.0989,80.2914,0
+hospital,H4,Global_Hospital_Perumbakkam,12.9006,80.2156,5
+hospital,H5,SIMS_Hospital_Vadapalani,13.0526,80.2129,7
+hospital,H6,Kilpauk_Medical_Hospital,13.0790,80.2376,0
